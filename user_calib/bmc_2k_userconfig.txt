@@ -1,0 +1,3 @@
+32 # dm dims
+-0.859 # actuator gain
+0.519 # volume factor
